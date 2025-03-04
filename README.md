@@ -72,9 +72,4 @@ The system applies **deep learning-based segmentation techniques** to classify e
 
 This project is open-source and available for educational and research purposes.
 
----
-
-### 📞 Contact
-
-For questions or contributions, feel free to open an issue.
 
